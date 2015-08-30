@@ -156,7 +156,7 @@ public final class yoda extends MIDlet implements CommandListener {
 		}
 		if ( c == abtCmd) {
 			label = "Yoda 1.0";
-			text = "The code of program is under the GPL licence and copyrighted by Panayotis Katsaloulis (panayotis@panayotis.com)\n\nBased on the Yoda program for the Palm platform by Pete Moss (bantha@bigfoot.com)\nGraphics by Robert Hagenstroem(robert.hagenstrom@ebox.tninet.se)\n\nGeorge Lucas owns all of the words and ideas in this program {\"I would get his permission if only he would return my calls...  :)\"}";
+			text = "The code of program is under the GPL licence and copyrighted by Panayotis Katsaloulis (http://www.panayotis.com)\n\nBased on the Yoda program for the Palm platform by Pete Moss (bantha@bigfoot.com)\nGraphics by Robert Hagenstroem(robert.hagenstrom@ebox.tninet.se)\n\nGeorge Lucas owns all of the words and ideas in this program {\"I would get his permission if only he would return my calls...  :)\"}";
 		}
 			
 		Alert alert = new Alert(label, text, null, AlertType.INFO);
