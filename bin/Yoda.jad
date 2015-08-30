@@ -1,0 +1,9 @@
+MIDlet-1: Yoda, /icons/yoda.png, com.panayotis.yoda.yoda
+MIDlet-Description: Speaks truth always Yoda
+MIDlet-Name: Yoda
+MIDlet-Vendor: Panayotis Katsaloulis
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-Size: 7588
+MIDlet-Jar-URL: Yoda.jar
